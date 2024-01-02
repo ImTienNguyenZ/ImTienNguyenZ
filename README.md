@@ -40,7 +40,7 @@
 
 ## What I'm Doing
 
-- 🖥️ Working On JCode Studio Or MT Joker
+- 🖥️ Working On JCode Studio
 - 🤓 Learning Node.js & Html, Php, Lua, More...
 - ℹ️ My Info: Discord: nguyenminhtien_tiny | Telegram: @mingnitetiny
 ## Languages and Tools
@@ -64,4 +64,6 @@
   <p align="left">
    <a href="https://github.com/ImTienNguyenZ/SourceCheatLienQuan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ImTienNguyenZ&repo=SourceCheatLienQuan&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
-
+   <a href="https://github.com/ImTienNguyenZ/FakeBankingWeb"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ImTienNguyenZ&repo=FakeBankingWeb&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
+  
