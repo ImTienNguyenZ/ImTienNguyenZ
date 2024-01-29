@@ -6,7 +6,9 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/ImTienNguyenZ">TienNguyenZ</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Social Network
+
 <p align="center">
   <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/ImTienNguyenZ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -52,19 +54,82 @@
 
 <p align="left"> <a href="https://github.com/ImTienNguyenZ"><img src="https://skillicons.dev/icons?i=vscode,replit,github,python,css,html,js,express,bots,nodejs,androidstudio,unity,cpp,lua,bash,heroku,photoshop,xd,ae,au,pr,blender,cloudflare,codepen,java,django,raspberrypi,unreal,visualstudio,remix"> </a> </p>
 
-## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=ImTienNguyenZ&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515"></p>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImTienNguyenZ&layout=compact&langs_count=8&theme=dark"/>
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1073115194529677332?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1073115194529677332)
-## Activity On GitHub
 
-<p align="center">
-  <a href="https://github.com/ImTienNguyenZ">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ImTienNguyenZ&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
+[<img src="https://github-readme-stats.vercel.app/api?username=ImTienNguyenZ&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=ImTienNguyenZ)
+
+### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://github-trophies.vercel.app/?username=ImTienNguyenZ" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=ImTienNguyenZ&theme=radical&margin-w=4&margin-h=4">
+</a>
+
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=ImTienNguyenZ">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=ImTienNguyenZ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImTienNguyenZ">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImTienNguyenZ&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://activity-graph.herokuapp.com/graph?username=ImTienNguyenZ">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=ImTienNguyenZ&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImTienNguyenZ">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImTienNguyenZ&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImTienNguyenZ&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImTienNguyenZ&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImTienNguyenZ">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImTienNguyenZ&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImTienNguyenZ">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImTienNguyenZ&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Top Respositorys
   <p align="left">
