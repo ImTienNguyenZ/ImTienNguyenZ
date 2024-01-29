@@ -5,11 +5,12 @@
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/ImTienNguyenZ">TienNguyenZ</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Social Network
 <p align="center">
   <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/ImTienNguyenZ"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://playerduo.net/NguyenTienTiny"><img alt="PlayerDuo" title="PlayerDuo" src="https://img.shields.io/badge/-PlayerDuo-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+  <a href="//"><img alt="Momo" title="Momo" src="https://img.shields.io/badge/-PlayerDuo-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 <a href="https://github.com/ImTienNguyenZ?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ImTienNguyenZ?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/ImTienNguyenZ"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ImTienNguyenZ?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -34,6 +35,10 @@
       <!-- Profile Views -->
       <td>
          <a href="https://github.com/ImTienNguyenZ"> <img src="https://komarev.com/ghpvc/?username=ImTienNguyenZ&style=for-the-badge&color=brightgreen"> </a>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ImTienNguyenZ&label=Profile%20Views&color=5&pretty=true" />
+</a>
       </td>
     </tr>
   </table>
