@@ -1,4 +1,4 @@
-## Introduction
+## 🏠Introduction
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Of%20JCode Studio;Contributed%20to%201500+%2B%20servers%20inside%20Discord;6+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
@@ -7,7 +7,7 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Social Network
+## 📈Social Network
 
 <p align="center">
   <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -16,9 +16,10 @@
 <a href="https://github.com/ImTienNguyenZ?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ImTienNguyenZ?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/ImTienNguyenZ"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ImTienNguyenZ?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
- </p>
+                                                </p>
+                                                <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-## Profile Views
+## 👀Profile Views
 
 
   <table>
@@ -37,20 +38,20 @@
       <!-- Profile Views -->
       <td>
          <a href="https://github.com/ImTienNguyenZ"> <img src="https://komarev.com/ghpvc/?username=ImTienNguyenZ&style=for-the-badge&color=brightgreen"> </a>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ImTienNguyenZ&label=Profile%20Views&color=5&pretty=true" />
-</a>
       </td>
     </tr>
   </table>
 
-## What I'm Doing
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤓What I'm Doing
 
 - 🖥️ Working On JCode Studio
 - 🤓 Learning Node.js & Html, Php, Lua, More...
 - ℹ️ My Info: Discord: nguyenminhtien_tiny | Telegram: @mingnitetiny
-## Languages and Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️Languages and Tools
 
 <p align="left"> <a href="https://github.com/ImTienNguyenZ"><img src="https://skillicons.dev/icons?i=vscode,replit,github,python,css,html,js,express,bots,nodejs,androidstudio,unity,cpp,lua,bash,heroku,photoshop,xd,ae,au,pr,blender,cloudflare,codepen,java,django,raspberrypi,unreal,visualstudio,remix"> </a> </p>
 
@@ -58,7 +59,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=ImTienNguyenZ&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=ImTienNguyenZ)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImTienNguyenZ&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=ImTienNguyenZ)
+
+
+<a href="https://github-trophies.vercel.app/?username=ImTienNguyenZ" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=ImTienNguyenZ&theme=radical&margin-w=4&margin-h=4">
+</a>
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
